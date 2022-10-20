@@ -1,7 +1,7 @@
 # Your checklist for this pull request
 
 ## Description
-Please describe your game:
+Describe your game:
 
 
 ## Code
