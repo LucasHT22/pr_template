@@ -1,1 +1,1 @@
-# pr_template
+# pr template for Sprig
