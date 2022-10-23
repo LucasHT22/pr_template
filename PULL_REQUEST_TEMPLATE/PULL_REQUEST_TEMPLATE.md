@@ -10,12 +10,12 @@ how to play your game?
 
 - [ ] check if the game was made in the [sprig editor](https://editor.sprig.hackclub.com/)
 - [ ] check if the game is in the [games directory](https://github.com/hackclub/sprig/tree/main/games)
-> for example: /games/sokoban_plus.js
+> for example: `/games/sokoban_plus.js`
 
 ## Image (If you have image)
 
 - [ ] check if the game is in the [img directory](https://github.com/hackclub/sprig/tree/main/games/img)
 
-> for example: /games/img/Piano.png
+> for example: `/games/img/Piano.png`
 
 Thanks for PR!
