@@ -3,8 +3,9 @@
 ## How to play
 
 how to play your game?
-
 > For example: Press WASD to move, J to restart and K to toggle trails, Get A boxes (cyan) to A goals (green), Get B boxes (magenta) to B goals (red), Get normal boxes (gray) to either goal (from Sokoban plus)
+
+
 
 ## Code
 
